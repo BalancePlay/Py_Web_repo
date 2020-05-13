@@ -2,4 +2,6 @@
 
 print 'hello';
 
+print 'hola';
+
 ?>
